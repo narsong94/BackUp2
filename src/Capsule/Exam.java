@@ -6,7 +6,6 @@ public class Exam {
 	private int kor;
 	private int eng;
 	private int math;
-	private int test;
 
 	public static void input(Exam[] exams) {
 		Scanner scan = new Scanner(System.in);
